@@ -8,7 +8,7 @@ The script will query all devices from /dev/sda to /dev/sdz for their current te
 
 ## Download
 
-* [Version 1.0](https://github.com/jpwenzel/disktemp/archive/master.zip)
+* [Version 1.0](https://github.com/jpwenzel/disktemp/archive/main.zip)
 
 ## Usage
 
